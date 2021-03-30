@@ -1,0 +1,27 @@
+    /* Custom CSS rules */
+    /* Tags */
+    /* Classes */
+    
+    .label {
+        font-weight: bold
+    }
+    
+    .alert,
+    .asterisk {
+        color: #ff0000
+    }
+    
+    .link {
+        cursor: pointer;
+        text-decoration: underline
+    }
+    
+    .panel {
+        border: solid thin #d3d3d3;
+        border-radius: 5px;
+        margin: 0 10px 30px 10px !important;
+        -webkit-box-shadow: 10px 10px 5px 0px rgba(214, 199, 214, 1);
+        -moz-box-shadow: 10px 10px 5px 0px rgba(214, 199, 214, 1);
+        box-shadow: 10px 10px 5px 0px rgba(214, 199, 214, 1);
+    }
+    /* IDs */
